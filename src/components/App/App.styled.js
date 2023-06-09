@@ -6,7 +6,7 @@ font-size: 35px;
 `;
 export const Container = styled.div`
 display: flex;
-padding: 20px;
+padding: 15px;
 justify-content:space-around;
 `;
 export const Div = styled.div`
